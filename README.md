@@ -1,7 +1,7 @@
 # Parking-Spot Finder
 
 This project was to identify the available parking spots in a parking lot thereby indicating a driver
-before entering the parking lot. For this project we used raspbery-py kit and databse (mysql-workbench). The park.py file contains sensor code and main.py file will upload the data recorded from the sensor into database. We fetch the recorded data from the database and visualize the data to analyze the parking spaces and it's status over a different time. For further details, please refer parking_detector.pdf file. 
+before entering the parking lot. For this project we used raspbery-py kit and databse (mysql-workbench). The park.py file contains sensor code and main.py file will upload the data recorded from the sensor into database. We fetch the recorded data from the database and visualize the data to analyze the parking spaces and it's status over a different time. 
 
 # The Problem
 In the modern day, the advancement of technology in the field of mobility has put
